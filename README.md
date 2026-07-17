@@ -54,6 +54,3 @@ _Not yet populated — add TTC accuracy, HC-12 effective range/latency under tes
 - No quantified TTC accuracy or false-positive/false-negative rates yet (see Results)
 - HC-12 range/latency not characterized under realistic test conditions
 
-## License
-
-MIT (or specify)
